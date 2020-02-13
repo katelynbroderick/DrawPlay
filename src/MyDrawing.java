@@ -1,3 +1,7 @@
+/*
+ * Author: Heidi Chen
+ * Author: Katelyn Broderick
+ */
 import java.awt.Graphics;
 
 import javax.swing.JFrame;
