@@ -10,13 +10,13 @@ public class Cat {
 	// drawing constants are private - noone needs to know what we're doing
 	// pick a head dimension
 	private static final int HEAD_DIMENSION = 500;
-	// eyes will be about 1/4 from top of head and 1/4 from left
-	private static final int EYE_Y = HEAD_DIMENSION/2;
+	// eyes will be about 1/2 from top of head and 1/2 from left
+	private static final int EYE_Y = HEAD_DIMENSION/3;
 	private static final int EYE_X = HEAD_DIMENSION/2;
 	private static final int EYE_SEPARATION = HEAD_DIMENSION/3;
 	// pick eye dimensions
-	private static final int EYE_HEIGHT = 20;
-	private static final int EYE_WIDTH = 10;
+	private static final int EYE_HEIGHT = 50;
+	private static final int EYE_WIDTH = 50;
 	// pick mouth height, width is based on head dimension
 	private static final int MOUTH_HEIGHT = 10;
 	private static final int MOUTH_WIDTH = HEAD_DIMENSION/4;
